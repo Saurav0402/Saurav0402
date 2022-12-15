@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **NLP, ML Algorithms**
 
-- 💬 Ask me about **Python, Tableau**
+- 💬 Ask me about **Python, Neural Network, Tableau**
 
 - 📫 How to reach me **sauravsuman9199@gmail.com**
 
